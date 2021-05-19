@@ -1,0 +1,34 @@
+refresh-on-startup yes
+auto-reload yes
+
+#browser "/usr/local/bin/lynx -cfg=~/.lynxrc %u"
+browser "/usr/local/bin/lynx -useragent='You know who else likes user agents? MY MOM!!!!! Lynx, L_y_n_x Find other witty content at https://www.benfrancom.com/about' -cfg=~/.lynxrc %u" 
+
+# display
+datetime-format %m-%d
+
+# interface
+confirm-exit yes
+bind-key k up
+bind-key j down
+
+cache-file  "~/.config/newsboat/cache.db"
+error-log "/tmp/newsbeuter.error.log"
+
+max-items 0
+keep-articles-days 0
+
+## configuration option: search-highlight-colors
+## description: This configuration command specifies the highlighting colors when searching for text from the article view.
+## parameter syntax: <fgcolor> <bgcolor> [<attribute> ...]
+search-highlight-colors black red
+ 
+ 
+color background   white   default
+color listnormal   white   default
+color listfocus    red  white  
+color info         red  default bold  
+color article      white   default
+
+color listnormal_unread   white default bold
+color listfocus_unread    red white   bold
