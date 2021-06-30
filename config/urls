@@ -25,7 +25,7 @@ https://jamesclear.com/feed
 
 #Tech News
 http://www.theregister.co.uk/headlines.atom "tech news"
-https://feeds.feedburner.com/AmazonWebServicesBlog "tech news"
+https://aws.amazon.com/blogs/aws/feed "tech news"
 https://arstechnica.com/feed/ "tech news"
 https://www.usenix.org/blog/rss.xml "tech news"
 
@@ -33,6 +33,8 @@ https://www.usenix.org/blog/rss.xml "tech news"
 http://phys.org/rss-feed/breaking/ "other"
 https://www.joerogan.com/blog?format=rss "other"
 https://world.hey.com/bennorris/feed.atom "other"
+https://www.theatlantic.com/feed/all/ "other"
+https://simplebits.medium.com/feed "other"
 
 #Church
 https://newsroom.churchofjesuschrist.org/rss "church"
