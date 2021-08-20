@@ -1,6 +1,6 @@
 # Run newsboat from a container
 
-#sudo docker run --rm -it -v $(pwd)/config:/home/user/.config/newsboat local/newsboat
+#sudo docker run --rm -it -v $(pwd)/config:/home/newsboat-user/.config/newsboat local/newsboat
 
 FROM alpine:edge
 
@@ -15,7 +15,7 @@ RUN apk --no-cache add \
 ENV BROWSER lynx
 RUN ln -s /usr/bin/lynx /usr/local/bin/lynx
 
-USER newsboat-user
+#USER newsboat-user
 ENV HOME /home/newsboat-user
 ENV TERM xterm
 RUN mkdir -p $HOME/.config/newsboat
