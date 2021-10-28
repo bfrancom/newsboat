@@ -17,8 +17,6 @@ https://www.youtube.com/feeds/videos.xml?user=biolayne "self improvement"
 http://feeds.feedburner.com/mrmoneymustache "self improvement"
 https://tim.blog/feed/ "self improvement"
 https://www.iwillteachyoutoberich.com/feed/ "self improvement"
-https://twitrss.me/twitter_user_to_rss/?user=ramit "self improvement"
-https://twitrss.me/twitter_user_to_rss/?user=realjayabraham "self improvement"
 https://sivers.org/en.atom "self improvement"
 https://gregmckeown.com/feed
 https://jamesclear.com/feed
@@ -29,6 +27,7 @@ http://www.theregister.co.uk/headlines.atom "tech news"
 https://aws.amazon.com/blogs/aws/feed "tech news"
 https://arstechnica.com/feed/ "tech news"
 https://www.usenix.org/blog/rss.xml "tech news"
+https://news.ycombinator.com/rss "tech news"
 
 #Other
 http://phys.org/rss-feed/breaking/ "other"
