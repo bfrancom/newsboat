@@ -11,30 +11,35 @@ https://portswigger.net/daily-swig/rss "infosec"
 
 #Self Improvement
 http://feeds.feedburner.com/StudyHacks "self improvement"
-https://www.nirandfar.com/feed/ "self improvement"
 http://feeds.feedburner.com/zenhabits "self improvement"
 https://www.youtube.com/feeds/videos.xml?user=biolayne "self improvement"
 http://feeds.feedburner.com/mrmoneymustache "self improvement"
 https://tim.blog/feed/ "self improvement"
 https://www.iwillteachyoutoberich.com/feed/ "self improvement"
 https://sivers.org/en.atom "self improvement"
-https://gregmckeown.com/feed
-https://jamesclear.com/feed
-http://www.podcastone.com/podcast?categoryID2=1237
+https://gregmckeown.com/feed "self improvement"
+https://jamesclear.com/feed "self improvement"
+http://www.podcastone.com/podcast?categoryID2=1237 "self improvement"
+https://kimperell.com/feed/ "self improvement"
+https://www.selenasoo.com/blog-2/feed/ "self improvement"
+https://seths.blog/feed/ "self improvement"
+https://jamesaltucher.com/blog/feed/ "self improvement"
 
 #Tech News
+https://world.hey.com/jason/feed.atom "tech news"
 http://www.theregister.co.uk/headlines.atom "tech news"
 https://aws.amazon.com/blogs/aws/feed "tech news"
 https://arstechnica.com/feed/ "tech news"
 https://www.usenix.org/blog/rss.xml "tech news"
 https://news.ycombinator.com/rss "tech news"
+https://netflixtechblog.com/feed
 
 #Other
 http://phys.org/rss-feed/breaking/ "other"
 https://www.joerogan.com/blog?format=rss "other"
 https://world.hey.com/bennorris/feed.atom "other"
-https://www.theatlantic.com/feed/all/ "other"
 https://simplebits.medium.com/feed "other"
+https://waitbutwhy.com/feed "other"
 
 #Church
 https://newsroom.churchofjesuschrist.org/rss "church"
