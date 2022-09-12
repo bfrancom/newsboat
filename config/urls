@@ -1,5 +1,5 @@
 #Me
-https://www.benfrancom.com/feed.xml
+https://benfran.com/feed.xml
 #https://www.fathead.blog/feed.xml
 
 #InfoSec
@@ -13,12 +13,12 @@ https://portswigger.net/daily-swig/rss "infosec"
 http://feeds.feedburner.com/StudyHacks "self improvement"
 http://feeds.feedburner.com/zenhabits "self improvement"
 http://feeds.feedburner.com/mrmoneymustache "self improvement"
-https://tim.blog/feed/ "self improvement"
+#https://tim.blog/feed/ "self improvement"
 https://www.iwillteachyoutoberich.com/feed/ "self improvement"
 https://sivers.org/en.atom "self improvement"
 https://gregmckeown.com/feed "self improvement"
 https://jamesclear.com/feed "self improvement"
-http://www.podcastone.com/podcast?categoryID2=1237 "self improvement"
+#http://www.podcastone.com/podcast?categoryID2=1237 "self improvement"
 https://kimperell.com/feed/ "self improvement"
 https://www.selenasoo.com/blog-2/feed/ "self improvement"
 https://seths.blog/feed/ "self improvement"
@@ -40,6 +40,7 @@ https://www.joerogan.com/blog?format=rss "other"
 https://world.hey.com/bennorris/feed.atom "other"
 https://simplebits.medium.com/feed "other"
 https://waitbutwhy.com/feed "other"
+https://www.frugalwoods.com/feed/ "other"
 
 #Church
 https://newsroom.churchofjesuschrist.org/rss "church"
