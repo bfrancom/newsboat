@@ -26,13 +26,16 @@ https://jamesaltucher.com/blog/feed/ "self improvement"
 https://daniellelaporte.com/feed/
 
 #Tech News
+https://feeds.feedburner.com/AmazonWebServicesBlog "tech news"
 https://world.hey.com/jason/feed.atom "tech news"
 http://www.theregister.co.uk/headlines.atom "tech news"
 https://aws.amazon.com/blogs/aws/feed "tech news"
 https://arstechnica.com/feed/ "tech news"
 https://www.usenix.org/blog/rss.xml "tech news"
 https://news.ycombinator.com/rss "tech news"
-https://netflixtechblog.com/feed
+https://netflixtechblog.com/feed "tech news"
+https://lobste.rs/rss "tech news"
+https://feeds.feedburner.com/AmazonWebServicesBlog "tech news"
 
 #Other
 http://phys.org/rss-feed/breaking/ "other"
