@@ -16,9 +16,6 @@ http://feeds.feedburner.com/mrmoneymustache "self improvement"
 #https://tim.blog/feed/ "self improvement"
 https://www.iwillteachyoutoberich.com/feed/ "self improvement"
 https://sivers.org/en.atom "self improvement"
-https://gregmckeown.com/feed "self improvement"
-https://jamesclear.com/feed "self improvement"
-#http://www.podcastone.com/podcast?categoryID2=1237 "self improvement"
 https://kimperell.com/feed/ "self improvement"
 https://www.selenasoo.com/blog-2/feed/ "self improvement"
 https://seths.blog/feed/ "self improvement"
@@ -36,10 +33,11 @@ https://news.ycombinator.com/rss "tech news"
 https://netflixtechblog.com/feed "tech news"
 https://lobste.rs/rss "tech news"
 https://feeds.feedburner.com/AmazonWebServicesBlog "tech news"
+https://www.uber.com/blog/rss "tech news"
+http://jeff-barr.com/feed.xml "tech news"
 
 #Other
 http://phys.org/rss-feed/breaking/ "other"
-https://www.joerogan.com/blog?format=rss "other"
 https://world.hey.com/bennorris/feed.atom "other"
 https://simplebits.medium.com/feed "other"
 https://waitbutwhy.com/feed "other"
@@ -49,8 +47,8 @@ https://www.frugalwoods.com/feed/ "other"
 https://newsroom.churchofjesuschrist.org/rss "church"
 
 #Buddies
-https://we.dugg.in/feed/ "buddies"
-http://arbitraryreason.com/rss/ "buddies"
+#https://we.dugg.in/feed/ "buddies"
+#http://arbitraryreason.com/rss/ "buddies"
 
 #openbsd
 https://bsdly.blogspot.com/feeds/posts/default "openbsd"
@@ -59,4 +57,4 @@ https://www.undeadly.org/cgi?action=rss "openbsd"
 https://www.reddit.com/r/openbsd.rss "openbsd"
 
 #i3wm
-#https://www.reddit.com/r/i3wm.rss "i3wm"
+https://www.reddit.com/r/i3wm.rss "i3wm"
