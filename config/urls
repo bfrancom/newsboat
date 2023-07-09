@@ -36,7 +36,9 @@ https://lobste.rs/rss "tech news"
 https://feeds.feedburner.com/AmazonWebServicesBlog "tech news"
 https://www.uber.com/blog/rss "tech news"
 http://jeff-barr.com/feed.xml "tech news"
-https://lethain.com/feeds.xml
+https://lethain.com/feeds.xml "tech news"
+https://updates.37signals.com/?format=rss  "tech news"
+https://www.allthingsdistributed.com/atom.xml  "tech news"
 
 #Other
 http://phys.org/rss-feed/breaking/ "other"
