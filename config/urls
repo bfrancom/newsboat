@@ -2,14 +2,6 @@
 https://benfran.com/feed.xml
 #https://www.fathead.blog/feed.xml
 
-#InfoSec
-https://krebsonsecurity.com/feed/ "infosec"
-https://www.darkreading.com/rss_simple.asp "infosec"
-http://feeds.feedburner.com/TheHackersNews "infosec"
-https://www.blackhillsinfosec.com/feed/ "infosec"
-https://portswigger.net/daily-swig/rss "infosec"
-https://words.filippo.io/dispatches/rss/ "infosec"
-
 #Self Improvement
 http://feeds.feedburner.com/StudyHacks "self improvement"
 http://feeds.feedburner.com/zenhabits "self improvement"
@@ -39,6 +31,7 @@ http://jeff-barr.com/feed.xml "tech news"
 https://lethain.com/feeds.xml "tech news"
 https://updates.37signals.com/?format=rss  "tech news"
 https://www.allthingsdistributed.com/atom.xml  "tech news"
+https://www.binaryheap.com/ "tech news"
 
 #Other
 http://phys.org/rss-feed/breaking/ "other"
@@ -46,6 +39,14 @@ https://world.hey.com/bennorris/feed.atom "other"
 https://simplebits.medium.com/feed "other"
 https://waitbutwhy.com/feed "other"
 https://www.frugalwoods.com/feed/ "other"
+
+#InfoSec
+https://krebsonsecurity.com/feed/ "infosec"
+https://www.darkreading.com/rss_simple.asp "infosec"
+http://feeds.feedburner.com/TheHackersNews "infosec"
+https://www.blackhillsinfosec.com/feed/ "infosec"
+https://portswigger.net/daily-swig/rss "infosec"
+https://words.filippo.io/dispatches/rss/ "infosec"
 
 #Church
 https://newsroom.churchofjesuschrist.org/rss "church"
