@@ -17,4 +17,4 @@ jobs:
     - name: Build the Docker image
       run: |
         docker build . --file Dockerfile --tag bfrancom/newsboat:$(date +%s)
-        docker run bfrancom/newsboat:$(date +%s)
+        docker run docker.io/bfrancom/newsboat:$(date +%s)
