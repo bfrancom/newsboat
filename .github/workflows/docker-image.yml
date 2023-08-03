@@ -18,4 +18,4 @@ jobs:
       run: |
         docker build . --file Dockerfile --tag docker.io/bfrancom/newsboat:$(date +%s)
         echo "hi everybody!"
-        docker run docker run --rm -it -v $(pwd)/config:/home/newsboat-user/.config/newsboat docker.io/bfrancom/newsboat:$(date +%s)
+        docker run docker run --rm -i -v $(pwd)/config:/home/newsboat-user/.config/newsboat docker.io/bfrancom/newsboat:$(date +%s)
