@@ -13,7 +13,7 @@ https://kimperell.com/feed/ "self improvement"
 https://www.selenasoo.com/blog-2/feed/ "self improvement"
 https://seths.blog/feed/ "self improvement"
 https://jamesaltucher.com/blog/feed/ "self improvement"
-https://daniellelaporte.com/feed/
+https://daniellelaporte.com/feed/ "self improvement"
 
 #Tech News
 https://feeds.feedburner.com/AmazonWebServicesBlog "tech news"
@@ -37,6 +37,7 @@ https://martinfowler.com/feed.atom "tech news"
 https://tech.aa.com/index.xml "tech news"
 https://www.bloomberg.com/company/stories/category/tech-at-bloomberg/feed/ "tech news"
 https://research.facebook.com/feed/ "tech news"
+https://www.elidedbranches.com/feeds/posts/default "tech news"
 
 #Other
 http://phys.org/rss-feed/breaking/ "other"
