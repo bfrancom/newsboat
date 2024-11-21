@@ -52,6 +52,7 @@ https://waitbutwhy.com/feed "other"
 https://www.frugalwoods.com/feed/ "other"
 
 #InfoSec
+https://www.lightbluetouchpaper.org/feed/ "infosec"
 https://krebsonsecurity.com/feed/ "infosec"
 https://www.darkreading.com/rss_simple.asp "infosec"
 http://feeds.feedburner.com/TheHackersNews "infosec"
@@ -59,6 +60,7 @@ https://www.blackhillsinfosec.com/feed/ "infosec"
 https://portswigger.net/daily-swig/rss "infosec"
 https://words.filippo.io/dispatches/rss/ "infosec"
 https://hackingthe.cloud/feed_rss_created.xml "infosec"
+
 
 #Church
 https://newsroom.churchofjesuschrist.org/rss "church"
